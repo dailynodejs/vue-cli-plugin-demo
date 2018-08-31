@@ -1,0 +1,14 @@
+{
+  "name": "vue-cli-plugin-demo",
+  "version": "0.0.1",
+  "description": "demo for vue cli 3 plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-cli"
+  ],
+  "author": "dailynodejs",
+  "license": "ISC"
+}
